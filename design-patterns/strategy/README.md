@@ -7,6 +7,8 @@
 Define a family of algorithms, encapsulate an make interchangeble.
 Lets the algorithm vary independently from clients that use it.
 
+## Bad Example
+
 ## Simple Example
 
 *Animal* class with multiple implementation of *canFly* algorithm:
