@@ -1,7 +1,7 @@
 # Design Patterns
 
 - Creational
-  - Abstract Factory
+  - [Abstract Factory](./abstractfactory) (Kit)
   - Builder
   - [Factory Method](./factory) (Virtual constructor)
   - Prototype
