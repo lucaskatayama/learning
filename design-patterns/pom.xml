@@ -15,6 +15,7 @@
         <module>observer</module>
         <module>factory</module>
         <module>abstractfactory</module>
+        <module>singleton</module>
     </modules>
 
 

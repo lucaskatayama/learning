@@ -5,7 +5,7 @@
   - Builder
   - [Factory Method](./factory) (Virtual constructor)
   - Prototype
-  - Singleton
+  - [Singleton](./singleton)
 - Structural
   - Adapter
   - Bridge
