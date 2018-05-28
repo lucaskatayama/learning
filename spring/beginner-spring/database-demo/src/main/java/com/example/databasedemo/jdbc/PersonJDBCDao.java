@@ -1,6 +1,6 @@
 package com.example.databasedemo.jdbc;
 
-import com.example.databasedemo.entity.Person;
+import com.example.databasedemo.jdbc.entity.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
