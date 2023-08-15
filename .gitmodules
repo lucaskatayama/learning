@@ -1,0 +1,6 @@
+[submodule "learn-temporal"]
+	path = learn-temporal
+	url = git@github.com:lucaskatayama/learn-temporal.git
+[submodule "learn-grpc"]
+	path = learn-grpc
+	url = git@github.com:lucaskatayama/learn-grpc.git
