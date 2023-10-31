@@ -6,3 +6,6 @@
 	path = learn-grpc
 	url = git@github.com:lucaskatayama/learn-grpc.git
 	branch = main
+[submodule "notification-system"]
+	path = notification-system
+	url = git@github.com:lucaskatayama/notification-system.git
