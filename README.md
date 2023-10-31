@@ -5,9 +5,9 @@
 
 ## System Designs
 
-- [Notification System](./notification-system)
+- [Notification System](https://github.com/lucaskatayama/notification-system/)
 
 ## Topics
 
-- [Temporal](./learn-temporal)
-- [gRPC](./learn-grpc)
+- [Temporal](https://github.com/lucaskatayama/learn-temporal)
+- [gRPC](https://github.com/lucaskatayama/learn-grpc)
