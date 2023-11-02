@@ -7,7 +7,9 @@
 
 - [Notification System](https://github.com/lucaskatayama/notification-system/)
 
+
 ## Topics
 
 - [Temporal](https://github.com/lucaskatayama/learn-temporal)
 - [gRPC](https://github.com/lucaskatayama/learn-grpc)
+- [Hexagonal Architecture](https://github.com/lucaskatayama/learn-hexagonal)
