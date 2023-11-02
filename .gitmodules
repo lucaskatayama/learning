@@ -9,3 +9,6 @@
 [submodule "notification-system"]
 	path = notification-system
 	url = git@github.com:lucaskatayama/notification-system.git
+[submodule "learn-hexagonal"]
+	path = learn-hexagonal
+	url = git@github.com:lucaskatayama/learn-hexagonal.git
